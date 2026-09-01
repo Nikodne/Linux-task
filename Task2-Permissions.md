@@ -35,3 +35,6 @@ Therefore:
 640 = rw-r-----
 
 The owner can read and modify the file, the group can read it, and other users have no access.
+## Screenshot
+
+![Linux Permissions](Screenshot_20260901_132248_Termux.jpg)

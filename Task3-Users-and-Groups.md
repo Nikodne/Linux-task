@@ -82,4 +82,4 @@ This task demonstrated how to create a user and group, add a user to a group, ve
 
 The screenshot below shows the commands used and their results, including the creation of `student1`, creation of the `developers` group, group membership verification, switching to `student1`, and the ownership of `student_file.txt`.
 
-![Task 3 Linux Users and Groups](User and group_Termux.jpg)
+![Task 3 Linux Users and Groups](User_and_group_Termux.jpg)
